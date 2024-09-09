@@ -1,0 +1,50 @@
+{
+  "League of Legends": {
+    "questions": [
+      {
+        "question": "Qual é o nome verdadeiro do campeão Zed?",
+        "answers": [
+          "Ronaldinho",
+          "Erick",
+          "Khada Jhin",
+          "Govos"
+        ],
+        "correct": "Govos"
+      },
+      {
+        "question": "Qual campeão é conhecido como 'A Dama da Luz'? ",
+        "answers": [
+          "Leona",
+          "Lux",
+          "Kayle",
+          "Alistar"
+        ],
+        "correct": "Lux"
+      }
+    ]
+  },
+  "Final Fantasy XIV": {
+    "questions": [
+      {
+        "question": "Qual é a raça que se parece com um coelho?",
+        "answers": [
+          "Miqo'te",
+          "Roegadyn",
+          "Lalafell",
+          "Viera"
+        ],
+        "correct": "Viera"
+      },
+      {
+        "question": "Qual é o nome do vilarejo natal de Alphinaud e Alisaie?",
+        "answers": [
+          "Ishgard",
+          "Limsa Lominsa",
+          "Sharlayan",
+          "Gridania"
+        ],
+        "correct": "Sharlayan"
+      }
+    ]
+  }
+}
