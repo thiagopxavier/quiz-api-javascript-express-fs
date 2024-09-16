@@ -5,19 +5,49 @@
         "question": "Qual é o nome verdadeiro do campeão Zed?",
         "answers": [
           "Ronaldinho",
-          "Erick",
+          "Zeker",
           "Khada Jhin",
           "Govos"
         ],
         "correct": "Govos"
       },
       {
-        "question": "Qual campeão é conhecido como 'A Dama da Luz'? ",
+        "question": "Qual o nome do item que desabilitava torre?",
+        "answers": [
+          "Bastão das Eras",
+          "Flâmula de Comando",
+          "Mergul Hadora",
+          "Asserção da Rainha Gélida"
+        ],
+        "correct": "Mergul Hadora"
+      },
+      {
+        "question": "Qual campeão é conhecido como 'A Dama da Luz'?",
         "answers": [
           "Leona",
           "Lux",
           "Kayle",
           "Alistar"
+        ],
+        "correct": "Lux"
+      },
+      {
+        "question": "Quantos jogadores formam uma equipe em uma partida normal de Summoner's Rift?",
+        "answers": [
+          "3",
+          "4",
+          "5",
+          "10"
+        ],
+        "correct": "5"
+      },
+      {
+        "question": "Qual destes campeões NÃO é da região de Demacia?",
+        "answers": [
+          "Garen",
+          "Lucian",
+          "Jinx",
+          "Lux"
         ],
         "correct": "Lux"
       }
@@ -26,12 +56,42 @@
   "Final Fantasy XIV": {
     "questions": [
       {
-        "question": "Qual é a raça que se parece com um coelho?",
+        "question": "Em qual continente está localizada a cidade de Kugane?",
         "answers": [
-          "Miqo'te",
-          "Roegadyn",
-          "Lalafell",
-          "Viera"
+          "Eorzea",
+          "Garlemald",
+          "Othard",
+          "Thavnair"
+        ],
+        "correct": "Othard"
+      },
+      {
+        "question": "Qual é a classe inicial que evolui para o Job Dragoon?",
+        "answers": [
+          "Gladiator",
+          "Lancer",
+          "Archer",
+          "Pugilist"
+        ],
+        "correct": "Lancer"
+      },
+      {
+        "question": "Qual é a principal moeda utilizada em Final Fantasy XIV?",
+        "answers": [
+          "Gil",
+          "MGP",
+          "Tomestones",
+          "Crystals"
+        ],
+        "correct": "Gil"
+      },
+      {
+        "question": "Qual Job é especializado em curar e possui a habilidade 'Benediction'"?",
+        "answers": [
+          "White Mage",
+          "Scholar",
+          "Astrologian",
+          "Sage"
         ],
         "correct": "Viera"
       },
